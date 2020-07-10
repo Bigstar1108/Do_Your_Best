@@ -1,0 +1,22 @@
+.Container{
+    display: flex;
+    width : 100vw;
+    height : 100vh;
+    justify-content: center;
+    align-items : center;
+    background-color: #EAEAEA;
+}
+
+.OptionBox{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    height: 70%;
+    background-color: white;
+}
+
+.OptionItem{
+    display: flex;
+    width: 50%;
+    height: 100%;
+}
