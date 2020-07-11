@@ -9,14 +9,60 @@
 
 .OptionBox{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 60%;
     height: 70%;
     background-color: white;
+}
+
+.TopOptionBox{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 30%;
+    justify-content: center;
+    p {
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 5%;
+    };
+}
+
+.BetInput{
+    display: flex;
+    align-self: center;
+    width: 90%;
+    height: 30px;
+    outline: none;
+    font-family: 'Noto Sans KR', sans-serif;
+    padding-left: 10px;
+}
+
+.BottomOptionBox{
+    display: flex;
+    width: 100%;
+    height: 60%;
 }
 
 .OptionItem{
     display: flex;
     width: 50%;
     height: 100%;
+}
+
+.OptionButtonBox{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    justify-content: center;
+    button{
+        width: 90%;
+        height: 35px;
+        font-family: 'Noto Sans KR', sans-serif;
+        background-color: white;
+        cursor: pointer;
+        outline: none;
+        border-radius: 3px;
+    }
 }
