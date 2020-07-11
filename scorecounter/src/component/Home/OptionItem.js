@@ -8,7 +8,9 @@ const OptionItem = () => {
     }
     return( 
         <div className = "ItemContainer">
-            <input value = {name} onChange = {onChangeName} placeholder = "Player Name" className = "nameInput" />
+            <input value = {name} onChange = {onChangeName} placeholder = "플레이어 이름을 입력해주세요" />
+            <input placeholder = "시작 점수를 입력해주세요" />
+            <input placeholder = "목표 점수를 입력해주세요" />
         </div>
     );
 }
