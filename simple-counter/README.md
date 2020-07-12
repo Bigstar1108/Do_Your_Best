@@ -18,7 +18,6 @@
 ## 제공 서비스
 
 **카운터 홈**
-
 ## 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
