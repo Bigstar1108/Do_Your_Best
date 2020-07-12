@@ -8,6 +8,10 @@
 
 **GitHub: [https://github.com/Bigstar1108/Do_Your_Best/edit/master/simple-counter](https://github.com/Bigstar1108/Do_Your_Best/edit/master/simple-counter)**
 
+## 자세한 개발 일지 및 정보는 아래의 사이트에서 확인하실 수 있습니다😀
+
+**tistory: [https://bigstar-vlog.tistory.com/9](https://bigstar-vlog.tistory.com/9)**
+
 ## 기능 명세
 
 - **카운터 홈**
@@ -18,7 +22,17 @@
 ## 제공 서비스
 
 **카운터 홈**
-## 
+
+## 참고 문헌 및 사이트 ##
+
+**리액트 Hooks 공식 문서 - https://ko.reactjs.org/docs/hooks-intro.html**
+
+**React-Redux Hooks - https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd**
+
+**리액트의 Hooks 완벽 정복하기 - https://velog.io/@velopert/react-hooks**
+
+**Redux: 예제를 통해 사용해보기 - https://velopert.com/1266**
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
