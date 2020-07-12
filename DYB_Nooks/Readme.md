@@ -1,4 +1,4 @@
-## ✍ DYB_Nooks는 React Hooks를 공부하기위해 시작했습니다. React Hooks와 함수형 컴포넌트에 익숙해질 수 있도록 공부했습니다!##
+## ✍ DYB_Nooks는 React Hooks를 공부하기위해 시작했습니다. React Hooks와 함수형 컴포넌트에 익숙해질 수 있도록 공부했습니다!
 
 **학습 기간: 20.07.08 - 20.07.0.9**
 
