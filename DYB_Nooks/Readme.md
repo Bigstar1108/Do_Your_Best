@@ -8,6 +8,12 @@
 
 **GitHub: [https://github.com/Bigstar1108/Do_Your_Best/edit/master/DYB_Nooks](https://github.com/Bigstar1108/Do_Your_Best/edit/master/DYB_Nooks)**
 
+## 자세한 개발 일지 및 정보는 아래의 사이트에서 확인하실 수 있습니다😀
+
+**tistory: **
+**[https://bigstar-vlog.tistory.com/7](https://bigstar-vlog.tistory.com/7)**
+**[https://bigstar-vlog.tistory.com/8](https://bigstar-vlog.tistory.com/8)**
+
 ## React Hooks와 함수형으로 프로그래밍한 함수 ##
 
 **useTitle - 현재 웹사이트의 타이틀을 변경해주는 함수**
