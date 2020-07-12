@@ -11,6 +11,7 @@
 ## 자세한 개발 일지 및 정보는 아래의 사이트에서 확인하실 수 있습니다😀
 
 **tistory: **
+
 **[https://bigstar-vlog.tistory.com/7](https://bigstar-vlog.tistory.com/7)**
 **[https://bigstar-vlog.tistory.com/8](https://bigstar-vlog.tistory.com/8)**
 
