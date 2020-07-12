@@ -1,3 +1,25 @@
+## ✍ SimpleCounter는 DYB_Nooks를 끝내고 React hooks를 활용하여 개발하고 싶어서 시작했습니다.
+
+**개발 기간: 20.07.10**
+
+**개발 목표: React Hooks를 조금 더 활용하고 싶고, React Hooks + React-redux를 사용해보고 싶어서**
+
+**개발 동기: 조금 더 효율적으로 프로그래밍을 하고싶고, 더 많은 지식을 가지고 싶어서**
+
+**GitHub: [https://github.com/Bigstar1108/Do_Your_Best/edit/master/simple-counter](https://github.com/Bigstar1108/Do_Your_Best/edit/master/simple-counter)**
+
+## 기능 명세
+
+- **카운터 홈**
+  1. 현재 카운터 값 보기
+  2. 증가, 감소 할 값 정하기
+  3. 카운터 증가 및 감소
+  
+## 제공 서비스
+
+**카운터 홈**
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
