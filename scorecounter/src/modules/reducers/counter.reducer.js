@@ -1,4 +1,4 @@
-import { INCREMENT, DECREMENT, SET_DIFF } from '../actions/betinfo.actions';
+import { INCREMENT, DECREMENT, SET_DIFF } from '../actions/counter.action';
 
 const counterInitialState = {
     value : 0,
