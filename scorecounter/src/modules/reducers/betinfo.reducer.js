@@ -2,8 +2,8 @@ import { SET_BET, RESET_BET } from '../actions/betinfo.actions';
 
 const betInitialState = {
     bet : "",
-    player1 : null,
-    player2 : null
+    player1 : {},
+    player2 : {}
 };
 
 const betinfo = (state = betInitialState, action) => {
@@ -17,8 +17,8 @@ const betinfo = (state = betInitialState, action) => {
         case RESET_BET:
             return Object.assign({}, state, {
                 bet : "",
-                player1 : null,
-                player2 : null
+                player1 : {},
+                player2 : {}
             });
         default:
             return state;
