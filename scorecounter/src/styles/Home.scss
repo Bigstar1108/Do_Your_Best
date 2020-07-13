@@ -49,6 +49,24 @@
     display: flex;
     width: 50%;
     height: 100%;
+    flex-direction: column;
+    p {
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 10%;
+    }
+}
+
+.playerInput{
+    display : flex;
+    align-self: center;
+    width: 80%;
+    height: 30px;
+    outline: none;
+    font-family: 'Noto Sans KR', sans-serif;
+    padding-left: 10px;
+    margin-bottom: 10px;
 }
 
 .OptionButtonBox{
