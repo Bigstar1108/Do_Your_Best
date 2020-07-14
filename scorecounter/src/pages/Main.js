@@ -84,8 +84,8 @@ const Main = () => {
     }
 
     return(
-        <div className = "Container">
-            <div className = "MainContainer">
+        <div className = "MainContainer">
+            <div className = "MainBox">
                 <div className = "MainTopBox">
                     <span>벌칙: {data.bet}</span>
                 </div>
