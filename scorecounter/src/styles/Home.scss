@@ -1,3 +1,128 @@
+@import './mixin';
+
+@include mobile{
+    .OptionBox{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        height: 90%;
+        background-color: white;
+    }
+
+    .BottomOptionBox{
+        display: flex;
+        width: 100%;
+        height: 60%;
+        flex-direction: column;
+    }
+
+    .OptionItem{
+        display: flex;
+        width: 100%;
+        height: 50%;
+        flex-direction: column;
+        p {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 18px;
+            font-weight: bold;
+            margin-left: 5%;
+        }
+    }
+
+    .playerInput{
+        display : flex;
+        align-self: center;
+        width: 90%;
+        height: 30px;
+        outline: none;
+        font-family: 'Noto Sans KR', sans-serif;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@include tablet{
+    .OptionBox{
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        height: 70%;
+        background-color: white;
+    }
+
+    .BottomOptionBox{
+        display: flex;
+        width: 100%;
+        height: 60%;
+        flex-direction: row;
+    }
+
+    .OptionItem{
+        display: flex;
+        width: 50%;
+        height: 100%;
+        flex-direction: column;
+        p {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 18px;
+            font-weight: bold;
+            margin-left: 10%;
+        }
+    }
+
+    .playerInput{
+        display : flex;
+        align-self: center;
+        width: 80%;
+        height: 30px;
+        outline: none;
+        font-family: 'Noto Sans KR', sans-serif;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@include desktop{
+    .OptionBox{
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        height: 70%;
+        background-color: white;
+    }
+
+    .BottomOptionBox{
+        display: flex;
+        width: 100%;
+        height: 60%;
+        flex-direction: row;
+    }
+
+    .OptionItem{
+        display: flex;
+        width: 50%;
+        height: 100%;
+        flex-direction: column;
+        p {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 18px;
+            font-weight: bold;
+            margin-left: 10%;
+        }
+    }
+
+    .playerInput{
+        display : flex;
+        align-self: center;
+        width: 80%;
+        height: 30px;
+        outline: none;
+        font-family: 'Noto Sans KR', sans-serif;
+        padding-left: 10px;
+        margin-bottom: 10px;
+    }
+}
+
 .Container{
     display: flex;
     width : 100vw;
@@ -5,14 +130,6 @@
     justify-content: center;
     align-items : center;
     background-color: #EAEAEA;
-}
-
-.OptionBox{
-    display: flex;
-    flex-direction: column;
-    width: 60%;
-    height: 70%;
-    background-color: white;
 }
 
 .TopOptionBox{
@@ -37,36 +154,6 @@
     outline: none;
     font-family: 'Noto Sans KR', sans-serif;
     padding-left: 10px;
-}
-
-.BottomOptionBox{
-    display: flex;
-    width: 100%;
-    height: 60%;
-}
-
-.OptionItem{
-    display: flex;
-    width: 50%;
-    height: 100%;
-    flex-direction: column;
-    p {
-        font-family: 'Noto Sans KR', sans-serif;
-        font-size: 18px;
-        font-weight: bold;
-        margin-left: 10%;
-    }
-}
-
-.playerInput{
-    display : flex;
-    align-self: center;
-    width: 80%;
-    height: 30px;
-    outline: none;
-    font-family: 'Noto Sans KR', sans-serif;
-    padding-left: 10px;
-    margin-bottom: 10px;
 }
 
 .OptionButtonBox{
