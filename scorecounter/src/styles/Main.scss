@@ -1,0 +1,106 @@
+.Container{
+    display: flex;
+    width : 100vw;
+    height : 100vh;
+    justify-content: center;
+    align-items : center;
+    background-color: #EAEAEA;
+}
+
+.MainContainer{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 70%;
+    background-color: white;
+}
+
+.MainTopBox{
+    display: flex;
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #EAEAEA;
+    span{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color : black;
+    }
+}
+
+.MainBottomBox{
+    display: flex;
+    width: 100%;
+    height: 80%;
+    flex-direction: row;
+}
+
+.PlayerBox{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.InfoBox{
+    display: flex;
+    width: 100%;
+    height: 30%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    span{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        color : black;
+        margin-bottom: 10px;
+    }
+}
+
+.CounterBox{
+    display: flex;
+    width: 100%;
+    height: 70%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    span{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        color : black;
+        margin-bottom: 10px;
+    }
+}
+
+.BetBox{
+    display: flex;
+    width: 70%;
+    height: 36px;
+    background-color: rebeccapurple;
+    flex-direction: row;
+    input{
+        width: 80%;
+        font-family: 'Noto Sans KR', sans-serif;
+        padding-left: 10px;
+    };
+    button{
+        width: 10%;
+        height: 100%;
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        outline: none;
+        border-style : solid;
+        border-width: 1px;
+        cursor: pointer;
+    }
+}
