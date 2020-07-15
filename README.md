@@ -9,7 +9,11 @@
 >  1. React Hooks
 >  2. Redux + React-Redux
 >  3. SCSS
+>
 >  Repository
+>
 >  [DYB_Nooks](https://github.com/Bigstar1108/Do_Your_Best/tree/master/DYB_Nooks)
+>
 >  [simple-counter](https://github.com/Bigstar1108/Do_Your_Best/tree/master/simple-counter)
+>
 >  [scorecounter](https://github.com/Bigstar1108/Do_Your_Best/tree/master/scorecounter)
