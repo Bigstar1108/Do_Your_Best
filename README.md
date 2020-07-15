@@ -5,8 +5,11 @@
 
 **[https://bigstar-vlog.tistory.com/category/Do%20Your%20Best](https://bigstar-vlog.tistory.com/category/Do%20Your%20Best)**
   
->  2020.07.08 ~ 2020.07.15
+>  2020.07.08 ~ 2020.07.14
 >  1. React Hooks
 >  2. Redux + React-Redux
 >  3. SCSS
-  
+>  Repository
+>  [DYB_Nooks](https://github.com/Bigstar1108/Do_Your_Best/tree/master/DYB_Nooks)
+>  [simple-counter](https://github.com/Bigstar1108/Do_Your_Best/tree/master/simple-counter)
+>  [scorecounter](https://github.com/Bigstar1108/Do_Your_Best/tree/master/scorecounter)
