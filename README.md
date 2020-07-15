@@ -5,10 +5,10 @@
 
 **[https://bigstar-vlog.tistory.com/category/Do%20Your%20Best](https://bigstar-vlog.tistory.com/category/Do%20Your%20Best)**
 
-- **무엇을 공부해볼까**
+>- **무엇을 공부해볼까**
+>  
+>  2020.07.08 ~ 2020.07.15
+>  1. React Hooks
+>  2. Redux + React-Redux
+>  3. SCSS
   
-  2020.07.08 ~ 2020.07.15
-  1. React Hooks
-  2. Redux + React-Redux
-  3. SCSS
-  <href = "http://www.naver.com">네이버</href>
