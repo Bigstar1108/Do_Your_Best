@@ -5,7 +5,7 @@
 
 **[https://bigstar-vlog.tistory.com/category/Do%20Your%20Best](https://bigstar-vlog.tistory.com/category/Do%20Your%20Best)**
 
->- **무엇을 공부해볼까**
+>   - 무엇을 공부해볼까
 >  
 >   2020.07.08 ~ 2020.07.15
 >  1. React Hooks
