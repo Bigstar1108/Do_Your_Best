@@ -1,5 +1,62 @@
-## 안녕하세요
+## ✍ ScoreCounter는 simple-counter를 끝내고 React Hooks를 활용하고, SCSS를 사용하여 개발하고 싶어서 시작했습니다.
 
+**개발 기간: 20.07.13. ~ 20.07.14.**
+
+**개발 목표: React Hooks를 조금 더 활용하고 싶고, React Hooks + React-Redux + SCSS를 사용해보고 싶어서**
+
+**개발 동기: 조금 더 효율적으로 프로그래밍을 하고싶고, 더 많은 지식을 가지고 싶어서**
+
+**GitHub: [https://github.com/Bigstar1108/Do_Your_Best/edit/master/scorecounter](https://github.com/Bigstar1108/Do_Your_Best/edit/master/scorecounter)**
+
+## 사용 기술
+  1. React
+  2. React-Hooks
+  3. Redux
+  4. React-Redux
+  5. Styled-Components
+  6. SCSS
+  
+## 사용 도구
+  1. VisualStudioCode
+  2. Github
+
+## 자세한 개발 일지 및 정보는 아래의 사이트에서 확인하실 수 있습니다😀
+
+**[https://bigstar-vlog.tistory.com/12](https://bigstar-vlog.tistory.com/12)**
+**[https://bigstar-vlog.tistory.com/13](https://bigstar-vlog.tistory.com/13)**
+
+## 기능 명세
+
+- **홈**
+  1. 벌칙 작성
+  2. 사용자 정보 설정
+  
+- **메인 페이지**
+  1. 벌칙 출력
+  2. 사용자 정보 출력
+  3. 사용자별 카운팅 할 값 입력
+  4. 카운팅 증가 및 감소
+  5. 카운터 값 출력
+  
+## 제공 서비스
+
+**카운터 홈**
+  1. 사용자 정보 입력
+  2. 벌칙 입력
+  
+**메인 페이지**
+  1. 벌칙 출력
+  2. 사용자 정보 출력
+  3. 사용자별 카운팅 할 값 입력
+  4. 카운팅 증가 및 감소
+  5. 카운터 값 출력
+  
+## 참고 문헌 및 사이트 ##
+
+**React-Redux Hooks - https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd**
+
+**Sass/SCSS에서 미디어 쿼리(Media Query) 다루기 - https://chaewonkong.github.io/posts/scss-media-query.html**
+##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
