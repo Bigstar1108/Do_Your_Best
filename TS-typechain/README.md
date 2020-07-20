@@ -24,6 +24,18 @@
 
 **isBlockValid - 블록체인을 추가할 때 추가할 블록이 유효한지 체크하는 함수**
 
+## 느낀점
+
+**TypeScript는 개발자들의 실수를 확연하게 줄여줄 것 같다.**
+
+**블록체인도 공부하면 재미있구나**
+
+## 앞으로의 학습목표
+
+**TypeScript와 React를 같이 써서 scorecounter를 리팩토링 해야겠다**
+
+**블록체인도 더 공부해보아야겠다**
+
 ## 참고 문헌 및 사이트 ##
 
 **노마드코더 TypeScript로 블록체인 만들기 - https://www.youtube.com/watch?v=7wAhwv2Rbxw**
