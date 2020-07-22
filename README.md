@@ -3,7 +3,7 @@
 
 **매일매일 학습하며 중요한 사항을 블로그에 기록합니다! 블로그도 한 번씩 봐주세요🥰**
 
-**[https://bigstar-vlog.tistory.com/category/Do%20Your%20Best](https://bigstar-vlog.tistory.com/category/Do%20Your%20Best)**
+**[황대성 블로그 - 잡학다식집합소](https://bigstar-vlog.tistory.com/)**
 
 
 >  2020.07.08 ~ 2020.07.14
